@@ -3,7 +3,7 @@
     "description": "Used to minimize the HTML output of Slim Framework in PHP",
     "type": "library",
     "keywords": ["php","minify","html"],
-    "homepage": "https://github.com/sankalpsans/slim-goes-slimmer"
+    "homepage": "https://github.com/sankalpsans/slim-goes-slimmer",
     "require": {
         "php": ">=5.3",
         "slim/slim": ">=2.5.0"
