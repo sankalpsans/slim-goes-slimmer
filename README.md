@@ -41,5 +41,6 @@ HTML pages with embedded JS or complicated division hierarchy are written with i
   </body>
 </html>
 ```
-I did a rough benchmarking of this on several popular media websites and found that we waste somewhere from 20 to 30% bandwidth to indented HTML and JavaScript.
+I did a rough benchmarking of this on several popular media websites and found that we waste somewhere from 20 to 30% of the HTML bandwidth to indented HTML and JavaScript.
 So, I decided to solve this problem, and implement this for Slim framework first, because this the framework I'm currently working with.
+This project is under development.
