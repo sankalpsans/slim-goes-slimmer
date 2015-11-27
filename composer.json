@@ -10,7 +10,7 @@
     },
     "autoload": {
 	    "psr-4": { "Slim\\Middleware\\": "src/Slim/Middleware/" }
-	}
+	},
     "license": "MIT",
     "authors": [
         {
