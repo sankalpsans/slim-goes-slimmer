@@ -94,4 +94,4 @@ Mainly because I'm facing weird issues with base64-encoded images in HTML
 This project is inspired by a project I have contributed to https://github.com/christianklisch/slim-minify earlier. I intended to contribute to it further, but haven't sone so because slim-goes-slimmer is specifically addresses to my set of problems, and I will tweak this as and how I need it on my PHP projects.
 
 # Contributing
-Contributing is dumb simple. Fork, code, push and rase a pull request.
+Contributing is dumb simple. Fork, code, push and raise a pull request.
