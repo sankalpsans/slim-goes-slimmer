@@ -91,8 +91,7 @@ if() {
 Mainly because I'm facing weird issues with base64-encoded images in HTML
 
 # Using
-* Just `composer require sankalp_sans/slim-goes-slimmer` OR 
-copy the file `SlimGoesSlimmer.php` to the relevant path and inclide it.
+* Just use `composer require sankalp_sans/slim-goes-slimmer` OR copy the file `SlimGoesSlimmer.php` to the relevant path and include it.
 * Register this to the Slim app object using
 ```
 $app = new \Slim\Slim(...));
