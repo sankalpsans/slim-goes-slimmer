@@ -1,0 +1,16 @@
+{
+    "name": "sankalp_sans/slim-goes-slimmer",
+    "description": "Used to minimize the HTML output of Slim Framework in PHP",
+    "type": "library",
+    "require": {
+        "php": "5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sankalp",
+            "email": "sankalp.sans@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
