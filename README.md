@@ -98,7 +98,7 @@ $app = new \Slim\Slim(...));
 $app->add(new \Slim\Middleware\SlimGoesSlimmer());
 ```
 
-# Inspiratinn
+# Inspiration
 This project is inspired by a project I have contributed to https://github.com/christianklisch/slim-minify earlier. I intended to contribute to it further, but haven't sone so because slim-goes-slimmer is specifically addresses to my set of problems, and I will tweak this as and how I need it on my PHP projects.
 
 # Results so far
